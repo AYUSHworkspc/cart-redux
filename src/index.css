@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body{
+    background-color:black;
+    color:white;
+}
+
+.nav_bar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px;
+    background:blue;
+    
+}
+
